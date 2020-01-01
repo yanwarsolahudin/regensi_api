@@ -2,9 +2,9 @@
 
 API for Stock Management Software based on web apps.
 
-## What Is Regense?
+## What Is Regensi?
 
-Regensi is Free Stock Management Sofwtare based on web apps.
+Regensi is Free Stock Management Software based on web apps.
 
 ## Requirements
 
